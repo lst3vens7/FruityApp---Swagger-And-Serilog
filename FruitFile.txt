@@ -1,0 +1,1 @@
+"Apple: 24","Banana: 15","Grapes: 10","Cherry: 10",Melon : 5,Orange : 10,Orange : 10,Melon : 20,Strawberry : 0.5,Tangerine : 50
